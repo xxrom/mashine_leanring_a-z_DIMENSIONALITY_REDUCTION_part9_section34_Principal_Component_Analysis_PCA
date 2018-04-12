@@ -1,4 +1,6 @@
 # PCA Principal Component Analysis
+# Feature Extraction PCA сокращает количество зависимых переменных
+# до 2, 3, ... которые несут наибольши вклад в результат предсказаний
 
 # Importing the libraries
 import numpy as np
